@@ -1,0 +1,14 @@
+{
+  "name": "via-vai-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A dependency-free full-stack JavaScript starter with a designed VIA VAI frontend.",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
